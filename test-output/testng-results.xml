@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3233" started-at="2021-08-17T22:50:54 EDT" finished-at="2021-08-17T22:50:57 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3233" started-at="2021-08-17T22:50:54 EDT" finished-at="2021-08-17T22:50:57 EDT">
+      <class name="com.excersice.api">
+        <test-method status="PASS" signature="Test_Delete()[pri:0, instance:com.excersice.api@27f723]" name="Test_Delete" duration-ms="3174" started-at="2021-08-17T22:50:54 EDT" finished-at="2021-08-17T22:50:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Delete -->
+      </class> <!-- com.excersice.api -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
